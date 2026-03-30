@@ -1,0 +1,9 @@
+shipment_id,client_name,origin_port,destination_port,cargo_type,status,shipment_date,expected_delivery,freight_cost
+SHP1001,BlueWave Exports,Kochi,Mumbai,Electronics,In Transit,2026-03-20,2026-03-28,45000
+SHP1002,Oceanic Traders,Chennai,Dubai,TextileSs,Delivered,2026-03-10,2026-03-18,62000
+SHP1003,GreenLeaf Agro,Kolkata,Singapore,Agricultural Goods,Delayed,2026-03-12,2026-03-22,38000
+SHP1004,SteelCore Ltd,Visakhapatnam,Rotterdam,Steel,Pending,2026-03-25,2026-04-05,120000
+SHP1005,SpiceRoute Cochin,Kochi,London,Spices,In Transit,2026-03-18,2026-03-30,70000
+SHP1006,She Textiles,Kochi,Dubai,Textiles,Delayed,2026-03-10,2026-03-22,50000
+SHP1007,Apex Chemicals Ltd,Chennai,London,Chemicals,Pending,2026-03-23,2026-04-03,40000
+SHP1008,Anne's Electronics,Bangalore,Pune,Electronics,Delivered,2026-03-15,2026-03-23,100000
