@@ -26,5 +26,5 @@ Generates an Excel file with
 
 ## Screenshots:
 
--Shipment Full Data(output/shipments-ss.png)
--Summary(output/summary-ss.png)
+-Shipment Full Data(output/shipments_ss.png)
+-Summary(output/summary_ss.png)
