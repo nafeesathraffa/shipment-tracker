@@ -27,4 +27,4 @@ Generates an Excel file with
 ## Screenshots:
 
 ![Shipment Full Data](output/shipmentsss.png)
-![Summary](outputsummary_ss.png)
+![Summary](output/summaryss.png)
